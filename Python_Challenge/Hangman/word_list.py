@@ -1,0 +1,2 @@
+words=["ability","able","about","above","abroad","absence","absent","absolute","accept","accident","accord","account","accuse","accustom","ache","across","act","action","active","actor","actress","actual","add","address","admire"]
+  
