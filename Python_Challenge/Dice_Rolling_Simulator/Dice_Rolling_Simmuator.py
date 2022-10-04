@@ -60,6 +60,6 @@ while dice_rolling:
             break
     #except:
         if another_attempt.lower() is not "y" or "n":
-            print("Invalid Input")
+            print("Sorry,Invalid Input")
 
 
