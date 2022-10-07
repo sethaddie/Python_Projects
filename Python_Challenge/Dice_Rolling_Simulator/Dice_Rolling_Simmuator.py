@@ -1,7 +1,5 @@
 
-from ast import Break
 import random
-
 
 
 dice_rolling = True
@@ -52,13 +50,13 @@ while dice_rolling:
         print("YOU GOT SIX")
 
 
-    #try:
+    try:
         another_attempt = str(input("Do you want to to roll the dice again?(y/n):"))
         if another_attempt.lower() == "y":
             continue
         elif another_attempt.lower()=="n":
             break
-    #except:
+    except:
         if another_attempt.lower() is not "y" or "n":
             print("Sorry,Invalid Input")
 
